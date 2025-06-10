@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Language Selector</string>
+
+    <!-- Заголовки -->
+    <string name="app_title">Выбор языка программирования</string>
+    <string name="languages_title">Выберите ваш любимый язык программирования:</string>
+    <string name="result_title">Результат выбора</string>
+
+    <!-- Языки программирования -->
+    <string name="language_cpp">C++ - Мощный системный язык программирования</string>
+    <string name="language_java">Java - Платформонезависимый объектно-ориентированный язык</string>
+    <string name="language_kotlin">Kotlin - Современный язык для Android разработки</string>
+    <string name="language_python">Python - Простой и элегантный язык программирования</string>
+
+    <!-- Кнопки и сообщения -->
+    <string name="submit_button">Подтвердить выбор</string>
+    <string name="initial_result_text">Результат появится здесь</string>
+    <string name="result_text">Выбранный язык программирования: %1$s</string>
+    <string name="no_selection_message">Пожалуйста, выберите язык программирования</string>
+    <string name="selection_confirmed">Выбор подтвержден!</string>
+    <string name="unknown_language">Неизвестный язык</string>
+    <string name="ready_to_submit">Готов к отправке</string>
+
+    <!-- Дополнительные строки -->
+    <string name="instruction_text">Выберите один из вариантов ниже:</string>
+    <string name="title_select_language">Селектор языков программирования</string>
+    <string name="button_submit">Отправить</string>
+</resources>
